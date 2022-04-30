@@ -105,10 +105,11 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fady0&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-    
+
+<!--START_SECTION:waka-->
 
  ## 👨‍💻 This week, I spent my time on:
   
 
-![fady's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fady0&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)
 
+<!--END_SECTION:waka-->
