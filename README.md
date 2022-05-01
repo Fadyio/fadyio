@@ -1,6 +1,6 @@
 # Hello there 👋
 
-  
+  ![](https://github.com/fady0/fady0/blob/main/header_1.png)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fady0.fady0)
 
