@@ -109,8 +109,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-Java   10 mins         █████████████▒░░░░░░░░░░░   53.56 %
-Bash   9 mins          ███████████▓░░░░░░░░░░░░░   46.44 %
+Bash   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
