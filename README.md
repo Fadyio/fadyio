@@ -10,7 +10,11 @@
   
 ## 📝 Blogs posts from my personal [website](https://fadyio.com)
 <!-- BLOG-POST-LIST:START -->
-
+- [New features in v1](fadyio.com/blog/new-features-in-v1)
+- [Introducing Multi-part Posts with Nested Routing](fadyio.com/blog/nested-route/introducing-multi-part-posts-with-nested-routing)
+- [Introducing Tailwind Nextjs Starter Blog](fadyio.com/blog/introducing-tailwind-nextjs-starter-blog)
+- [Deriving the OLS Estimator](fadyio.com/blog/deriving-ols-estimator)
+- [Images in Next.js](fadyio.com/blog/guide-to-using-images-in-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
 
