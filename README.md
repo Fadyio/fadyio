@@ -10,11 +10,11 @@
   
 ## 📝 Blogs posts from my personal [website](https://fadyio.com)
 <!-- BLOG-POST-LIST:START -->
-- [New features in v1](https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-in-v1)
-- [Introducing Multi-part Posts with Nested Routing](https://tailwind-nextjs-starter-blog.vercel.app/blog/nested-route/introducing-multi-part-posts-with-nested-routing)
-- [Introducing Tailwind Nextjs Starter Blog](https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-tailwind-nextjs-starter-blog)
-- [Deriving the OLS Estimator](https://tailwind-nextjs-starter-blog.vercel.app/blog/deriving-ols-estimator)
-- [Images in Next.js](https://tailwind-nextjs-starter-blog.vercel.app/blog/guide-to-using-images-in-nextjs)
+- [New features in v1](Fadyio.com/blog/new-features-in-v1)
+- [Introducing Multi-part Posts with Nested Routing](Fadyio.com/blog/nested-route/introducing-multi-part-posts-with-nested-routing)
+- [Introducing Tailwind Nextjs Starter Blog](Fadyio.com/blog/introducing-tailwind-nextjs-starter-blog)
+- [Deriving the OLS Estimator](Fadyio.com/blog/deriving-ols-estimator)
+- [Images in Next.js](Fadyio.com/blog/guide-to-using-images-in-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
 
