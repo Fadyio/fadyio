@@ -10,11 +10,9 @@
   
 ## 📝 Blogs posts from my personal [website](https://fadyio.com)
 <!-- BLOG-POST-LIST:START -->
-- [New features in v1](Fadyio.com/blog/new-features-in-v1)
-- [Introducing Multi-part Posts with Nested Routing](Fadyio.com/blog/nested-route/introducing-multi-part-posts-with-nested-routing)
-- [Introducing Tailwind Nextjs Starter Blog](Fadyio.com/blog/introducing-tailwind-nextjs-starter-blog)
-- [Deriving the OLS Estimator](Fadyio.com/blog/deriving-ols-estimator)
-- [Images in Next.js](Fadyio.com/blog/guide-to-using-images-in-nextjs)
+- [Apple doesn&#39;t care about privacy, and it&#39;s showing.](https://fadyio.com/blog/Apple-Privacy)
+- [WWDC 2022 Wishlist](https://fadyio.com/blog/WWDC22)
+- [Apple and the case for competition.](https://fadyio.com/blog/Apple-Competition)
 <!-- BLOG-POST-LIST:END -->
 
 
