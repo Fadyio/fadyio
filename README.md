@@ -10,7 +10,7 @@
   
 ## 📝 Blogs posts from my personal [website](https://fadyio.com)
 <!-- BLOG-POST-LIST:START -->
-- [Apple and the case for competition.](https://fadyio.com/blog/Apple-Competition)
+- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello)
 <!-- BLOG-POST-LIST:END -->
 
 
