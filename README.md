@@ -10,7 +10,9 @@
   
 ## 📝 Blogs posts from my personal [website](https://fadyio.com)
 <!-- BLOG-POST-LIST:START -->
-- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello)
+- [Apple doesn&#39;t care about privacy, and it&#39;s showing.](https://musing.vercel.app/blog/Apple-Privacy)
+- [WWDC 2022 Wishlist](https://musing.vercel.app/blog/WWDC22)
+- [Apple and the case for competition.](https://musing.vercel.app/blog/Apple-Competition)
 <!-- BLOG-POST-LIST:END -->
 
 
