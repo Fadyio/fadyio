@@ -10,9 +10,7 @@
   
 ## 📝 Blogs posts from my personal [website](https://fadyio.com)
 <!-- BLOG-POST-LIST:START -->
-- [Apple doesn&#39;t care about privacy, and it&#39;s showing.](https://fadyio.com/blog/Apple-Privacy)
-- [WWDC 2022 Wishlist](https://fadyio.com/blog/WWDC22)
-- [Apple and the case for competition.](https://fadyio.com/blog/Apple-Competition)
+- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello)
 <!-- BLOG-POST-LIST:END -->
 
 
