@@ -2,7 +2,7 @@
 
 #### My name is Fady ! Welcome to my Github Profile
 
-![my header](https://github.com/fady0/fady0/blob/main/readme_header.jpg)
+![my header](https://github.com/fady0/fady0/blob/main/readme_header.png)
   
 ![views](https://komarev.com/ghpvc/?username=fady0&label=PROFILE+VIEWS)
 
