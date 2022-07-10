@@ -1,6 +1,11 @@
  ![my header](https://github.com/fady0/fady0/blob/main/readme_header.png)
-<h1 align="center">Hi 👋, I'm Fady</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">My name is Fady ! Welcome to my Github Profile</h3>
+
+##### Here are some of my pieces of the internet: 
+- 🌐 [My Website](https://fadyio.com)
+- 💼 [My LinkedIn Profile](https://www.linkedin.com/in/fadyio/)
+- [My Twitter Profile](https://www.twitter.com/fady_io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadyio&label=Profile%20views&color=0e75b6&style=flat" alt="fadyio" /> </p>
 
@@ -31,4 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadyio&show_icons=true&locale=en&theme=tokyonight" alt="fadyio" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyio&theme=tokyonight" alt="fadyio" /></p>
+
+
+#### Thanks for stopping by! 
 
