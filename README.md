@@ -1,4 +1,4 @@
-<img  src="https://github.com/fady0/fady0/blob/main/readme_header.png" alt="header" class="center"/>
+<p style="text-align:center;"><img src="https://github.com/fady0/fady0/blob/main/readme_header.png" alt="header"></p>
 
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center">My name is Fady ! Welcome to my Github Profile</h3>
