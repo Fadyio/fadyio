@@ -16,6 +16,7 @@
 <a href="https://twitter.com/fady_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fady_io" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fadyio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadyio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14895864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14895864" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fady0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fady0" height="30" width="40" /></a>
 <a href="/https://www.fadyio.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.fadyio.com/feed.xml" height="30" width="40" /></a>
 </p>
 
@@ -25,4 +26,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fady0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fady0" /></a><a href="https://ko-fi.com/fady0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fady0" /></a></p><br><br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadyio&show_icons=true&locale=en" alt="fadyio" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyio&" alt="fadyio" /></p>
 
