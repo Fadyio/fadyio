@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/fady_io" target="blank"><img src="https://img.shields.io/twitter/follow/fady_io?logo=twitter&style=for-the-badge" alt="fady_io" /></a> </p>
 <br>
-<h1 align="center">Blog</h1>
+<h1 align="center">Latest Blog Post</h1>
 
 <!-- BLOG-POST-LIST:START -->
 
