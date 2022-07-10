@@ -29,7 +29,7 @@
 <br>
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fady0)](https://github.com/anuraghazra/github-readme-stats)
+[![Fady's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fady0)](https://github.com/fadyio/fadyio)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadyio&show_icons=true&locale=en&theme=tokyonight" alt="fadyio" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyio&theme=tokyonight" alt="fadyio" /></p>
