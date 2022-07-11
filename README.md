@@ -1,5 +1,7 @@
-<img align="center" height="500" src="https://github.com/fady0/fady0/blob/main/logo.svg" alt="header">
-
+<p align="center">
+  <img  height="400" alt="header" src="https://github.com/fady0/fady0/blob/main/logo.svg">
+</p>
+ 
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center">My name is Fady ! Welcome to my Github Profile</h3>
 
