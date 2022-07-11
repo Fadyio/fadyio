@@ -2,7 +2,7 @@
   <img  height="400" alt="header" src="https://github.com/fady0/fady0/blob/main/logo.svg">
 </p>
  
-<h1 align="center">Hi 👋,</h1>
+<h1 align="center">Hi There 👋,</h1>
 <h3 align="center">My name is Fady ! Welcome to my Github Profile</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fadyio&label=Profile%20views&color=0e75b6&style=flat" alt="fadyio" /> </p>
