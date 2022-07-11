@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img width="500" height="100" src="https://github.com/fady0/fady0/blob/main/logo.svg" alt="header"></p>
+<p style="text-align:center;"><img width="500" height="600" src="https://github.com/fady0/fady0/blob/main/logo.svg" alt="header"></p>
 
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center">My name is Fady ! Welcome to my Github Profile</h3>
