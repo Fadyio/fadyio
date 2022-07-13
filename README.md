@@ -12,7 +12,6 @@
 <h1 align="center">Latest Blog Post</h1>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/fsddfsdaf)
 - [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello)
 <!-- BLOG-POST-LIST:END -->
 
