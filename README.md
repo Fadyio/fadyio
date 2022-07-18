@@ -1,9 +1,19 @@
 <p align="center">
   <img  height="400" alt="header" src="https://github.com/fady0/fady0/blob/main/logo.svg">
 </p>
- 
-<h1 align="center">Hi There 👋,</h1>
-<h3 align="center">My name is Fady ! Welcome to my Github Profile</h3>
+
+<h1 align="center">👋 Ｈｅｌｌｏ! Ｉ'ｍ Ｆａｄｙ</h1>
+
+<p align="center">
+  <a href="https://twitter.com/Fady_io"><img src="https://img.shields.io/badge/-@Fady_io-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/14895864/fady/"><img src="https://img.shields.io/badge/-Fady-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://profile.codersrank.io/user/fadyio"><img src="https://img.shields.io/badge/-Fadyio-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
+  <a href="https://github.com/fadyio"><img src="https://img.shields.io/badge/-Fadyio-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://fadyio.com"><img src="https://img.shields.io/badge/-Fadyio.com-ff5757?style=flat&logo=Vercel&logoColor=white" /></a>
+  <a href="https://fadyio.com/blog"><img src="https://img.shields.io/badge/-Fady's_Blog-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Fadyio"><img src="https://img.shields.io/badge/-Fadyio-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fadyio&label=Profile%20views&color=0e75b6&style=flat" alt="fadyio" /> </p>
 
