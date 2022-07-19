@@ -20,14 +20,8 @@
 
 <blockquote>
 
-I software engineer based in London UK. And I love writing code!
-  
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
-
-I also enjoy attending ([and sometimes winning](https://notes.aliciasykes.com/p/0s5s3uOtKj)) hackathons and coding competitions, as it's a great opportunity to try out new technologies, meet new people and consume a lot of free caffeine.
-
-I have a small homelab, which I'm using to learn more about system administration, and host my own services.
-
+I software engineer based in Cairo EG. And I love writing code!
+I have one main opinion about programming and computer science, which is that deeply understanding the underlying technology you use is essential if you want to be able to solve hard problems or forward in your career. Sometimes I writes blog articles. You can find them [Here](https://www.fadyio.com/blog)  
 When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
 
 </blockquote>
