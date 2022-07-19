@@ -12,6 +12,12 @@
 
 </p>
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 <!-- About Section -->
 <details>
   <summary><b>👤 About Me</b></summary>
@@ -58,9 +64,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <details>
   <summary><b>📊 This week I spent my time on</b></summary>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 </details>
 
