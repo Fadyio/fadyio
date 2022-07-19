@@ -64,6 +64,10 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
+From: 11 July 2022 - To: 18 July 2022
+
+Total Time: 12 hrs 30 mins
+
 JavaScript   10 hrs 29 mins  ████████████████████▓░░░░   83.25 %
 Markdown     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 MDX          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
