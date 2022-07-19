@@ -58,7 +58,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   <summary><b>📊 Metrics</b></summary>
     <p>
       
-<img src="/github-metrics.svg" alt="Metrics" width="100%">:
+<img src="/github-metrics.svg" alt="Metrics" width="70%">:
 
 </p>
 </details>
