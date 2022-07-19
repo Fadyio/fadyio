@@ -35,8 +35,11 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <details>
   <summary><b>📰 Latest Blog Posts</b></summary>
     <p>
+
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
+
 
 ➡️  **[More Posts](https://fadyio.com/blog)**
 
