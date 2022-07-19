@@ -58,6 +58,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
   <summary><b>📊 Metrics</b></summary>
     <p>
       
+![Metrics](/github-metrics.svg), <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">, or <img src="/github-metrics.svg" alt="Metrics" width="100%">:
 
 </p>
 </details>
