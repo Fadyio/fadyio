@@ -56,15 +56,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </details>
 
 <details>
-<!-- WakaTime -->
   <summary><b>📊 This week I spent my time on</b></summary>
     <p>
-
 <!--START_SECTION:waka-->
 
-
 <!--END_SECTION:waka-->
-
+---
 </p>
 </details>
 
