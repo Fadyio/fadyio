@@ -40,18 +40,30 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 
 <!-- BLOG-POST-LIST:END -->
 
-
 ➡️  **[More Posts](https://fadyio.com/blog)**
 
 ----
 </p>
 </details>
 
-
-<!-- Metrics -->
 <details>
+<!-- Metrics -->
   <summary><b>📊 Metrics</b></summary>
     <p>
+      
+
+</p>
+</details>
+
+<details>
+<!-- WakaTime -->
+  <summary><b>📊 This week I spent my time on</b></summary>
+    <p>
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 
 </p>
 </details>
