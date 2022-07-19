@@ -63,6 +63,15 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <p>
 <!--START_SECTION:waka-->
 
+```text
+JavaScript   10 hrs 29 mins  ████████████████████▓░░░░   83.25 %
+Markdown     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+MDX          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Lua          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+gitconfig    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+```
+
 <!--END_SECTION:waka-->
 </p>
 </details>
