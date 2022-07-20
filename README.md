@@ -40,11 +40,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
     <p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello (copy 2))
-- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello (copy 3))
-- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello (copy 4))
-- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hello)
-- [Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.](https://fadyio.com/blog/hellofdsfsdfa)
+- [why I&#39;m starting a blog and other things about me.](https://fadyio.com/blog/hello-world!)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](https://fadyio.com/blog)**
