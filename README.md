@@ -69,16 +69,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 18 July 2022
+From: 12 July 2022 - To: 19 July 2022
 
-Total Time: 12 hrs 30 mins
+Total Time: 10 hrs 55 mins
 
-JavaScript   10 hrs 29 mins  ████████████████████▓░░░░   83.25 %
-Markdown     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-MDX          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Lua          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-gitconfig    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JavaScript   7 hrs 38 mins   █████████████████▒░░░░░░░   69.19 %
+Markdown     2 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+Lua          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+gitconfig    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+conf         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
