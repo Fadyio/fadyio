@@ -65,15 +65,14 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 July 2022 - To: 25 July 2022
+From: 19 July 2022 - To: 26 July 2022
 
-Total Time: 2 hrs 42 mins
+Total Time: 1 hr 7 mins
 
-Markdown     1 hr 32 mins    ██████████████░░░░░░░░░░░   55.70 %
-Lua          35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-JavaScript   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-YAML         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Lua          37 mins         █████████████░░░░░░░░░░░░   51.77 %
+JavaScript   20 mins         ███████░░░░░░░░░░░░░░░░░░   27.83 %
+Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Other        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
