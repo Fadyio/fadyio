@@ -40,7 +40,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
     <p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Share your work - why I&#39;m starting a blog.](https://fadyio.com/blog/hello-world)
+- [why I&#39;m starting a blog and other things about me.](https://fadyio.com/blog/hello-world!)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](https://fadyio.com/blog)**
