@@ -65,16 +65,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2022 - To: 22 August 2022
+From: 16 August 2022 - To: 23 August 2022
 
-Total Time: 10 hrs 9 mins
+Total Time: 11 hrs 17 mins
 
-C++      8 hrs 15 mins   ████████████████████▒░░░░   81.17 %
-Lua      1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-Python   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-zsh      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+C++     9 hrs 8 mins    ████████████████████▒░░░░   80.73 %
+Lua     1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Text    17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+zsh     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+C       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
