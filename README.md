@@ -65,16 +65,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 20 August 2022 - To: 27 August 2022
 
-Total Time: 6 hrs 51 mins
+Total Time: 6 hrs 35 mins
 
-C++          5 hrs 30 mins   ███████████████████▓░░░░░   78.90 %
-Text         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-C            19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-GDB          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Lua          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+C++          5 hrs 12 mins   ███████████████████▒░░░░░   77.58 %
+Text         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+C            19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+GDB          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Lua          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
