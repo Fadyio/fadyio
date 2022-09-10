@@ -65,14 +65,13 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 07 September 2022
+From: 01 September 2022 - To: 08 September 2022
 
-Total Time: 23 mins
+Total Time: 0 secs
 
-Bash        12 mins         █████████████░░░░░░░░░░░░   51.47 %
-Markdown    7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.62 %
-zsh         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Other       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Lua         0 secs          ████████████████░░░░░░░░░   63.89 %
+gitconfig   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
+Bash        0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
 ```
 
 <!--END_SECTION:waka-->
