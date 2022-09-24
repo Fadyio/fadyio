@@ -65,15 +65,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-Total Time: 28 mins
+Total Time: 44 mins
 
-JSON        13 mins         ███████████░░░░░░░░░░░░░░   44.61 %
-Lua         7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.64 %
-gitconfig   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-conf        2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Other       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+C++          14 mins         ████████░░░░░░░░░░░░░░░░░   32.32 %
+JSON         13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Lua          7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+gitconfig    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Markdown     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+conf         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
