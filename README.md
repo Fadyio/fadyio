@@ -65,16 +65,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 September 2022 - To: 01 October 2022
+From: 25 September 2022 - To: 02 October 2022
 
-Total Time: 5 hrs 28 mins
+Total Time: 6 hrs 8 mins
 
-C++           2 hrs 14 mins   ██████████░░░░░░░░░░░░░░░   40.66 %
-Bash          54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Lua           46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Vim Script    29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Text          15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-TOML          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+C++           2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.36 %
+Vim Script    1 hr 17 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+Bash          54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+Lua           46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+TOML          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Standard ML   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
