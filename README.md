@@ -65,13 +65,16 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 October 2022 - To: 13 October 2022
+From: 07 October 2022 - To: 14 October 2022
 
-Total Time: 4 hrs 34 mins
+Total Time: 35 mins
 
-Lua          2 hrs 26 mins   ████████████▓░░░░░░░░░░░░   50.02 %
-Bash         1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-Other        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Markdown     13 mins         █████████▓░░░░░░░░░░░░░░░   38.95 %
+Git Config   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+tmux         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Bash         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Text         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+HTML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 ```
 
 <!--END_SECTION:waka-->
