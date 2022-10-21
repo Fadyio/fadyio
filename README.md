@@ -65,13 +65,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
 Total Time: 1 min
 
-PacmanConf   1 min           ███████████████░░░░░░░░░░   59.62 %
-conf         0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.77 %
-Bash         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+PacmanConf   1 min           ████████████████▒░░░░░░░░   65.96 %
+conf         0 secs          ████████▓░░░░░░░░░░░░░░░░   34.04 %
 ```
 
 <!--END_SECTION:waka-->
