@@ -19,7 +19,7 @@
 
 <blockquote>
 
-Hi, I'm Devops engineer. I have one main opinion about programming and computer science, which is that deeply understanding the underlying technology you use is essential if you want to be able to solve hard problems or forward in your career. Sometimes I writes blog articles. You can find them [Here](https://www.fadyio.com/blog)  
+Hi, I'm DevOps Engineer. I have one main opinion about programming and computer science, which is that deeply understanding the underlying technology you use is essential if you want to be able to solve hard problems or forward in your career. Sometimes I writes blog articles. You can find them [Here](https://www.fadyio.com/blog)  
 When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
 
 </blockquote>
