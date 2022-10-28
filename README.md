@@ -36,7 +36,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
     <p>
 
 <!-- BLOG-POST-LIST:START -->
-- [why I&#39;m starting a blog and other things about me.](https://fadyio.com/blog/hello-world!)
+- [Share your work - why I&#39;m starting a blog.](https://fadyio.com/blog/hello-world!)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](https://fadyio.com/blog)**
@@ -61,16 +61,12 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 August 2022 - To: 30 August 2022
+From: 19 October 2022 - To: 26 October 2022
 
-Total Time: 3 hrs 2 mins
+Total Time: 1 hr 50 mins
 
-C++          1 hr 35 mins    ████████████▓░░░░░░░░░░░░   50.55 %
-Bash         39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
-GDB          17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-C            12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Text         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+tmux    47 mins         ████████▒░░░░░░░░░░░░░░░░   33.54 %
+Other   31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
 ```
 
 <!--END_SECTION:waka-->
