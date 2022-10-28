@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://twitter.com/Fady_io"><img src="https://img.shields.io/badge/-@Fady_io-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/14895864/fady/"><img src="https://img.shields.io/badge/-Fady-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://profile.codersrank.io/user/fadyio"><img src="https://img.shields.io/badge/-Fadyio-72a0a8?style=flat&logo=CodersRank&logoColor=white" /></a>
   <a href="https://github.com/fadyio"><img src="https://img.shields.io/badge/-Fadyio-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   <a href="https://fadyio.com"><img src="https://img.shields.io/badge/-Fadyio.com-ff5757?style=flat&logo=Vercel&logoColor=white" /></a>
   <a href="https://fadyio.com/blog"><img src="https://img.shields.io/badge/-Fady's_Blog-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
@@ -11,9 +10,6 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=fadyio&label=Profile%20views&color=0e75b6&style=flat" alt="fadyio" /> </p>
 
 </p>
-
-
-
 
 <!-- About Section -->
 <details>
@@ -23,7 +19,7 @@
 
 <blockquote>
 
-I software engineer based in Cairo EG. And I love writing code!
+I Devops engineer. And I love writing code!
 I have one main opinion about programming and computer science, which is that deeply understanding the underlying technology you use is essential if you want to be able to solve hard problems or forward in your career. Sometimes I writes blog articles. You can find them [Here](https://www.fadyio.com/blog)  
 When I'm not at the keyboard, I like sports, astronomy and hanging out with friends.
 
@@ -53,7 +49,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 <!-- Metrics -->
   <summary><b>📊 Metrics</b></summary>
     <p>
-      
+
 <img src="/github-metrics.svg" alt="Metrics" width="70%">:
 
 </p>
@@ -87,8 +83,6 @@ Other        7 mins          █░░░░░░░░░░░░░░░░
 <a href="https://twitter.com/fady_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fady_io" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fadyio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadyio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14895864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14895864" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fady0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fady0" height="30" width="40" /></a>
-<a href="/https://www.fadyio.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.fadyio.com/feed.xml" height="30" width="40" /></a>
 </p>
 </details>
 <!-- Tech Stack -->  
