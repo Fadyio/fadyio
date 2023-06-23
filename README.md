@@ -28,7 +28,18 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
   </p>
 </details>
 
-<!-- TODO:  Blog Posts -->
+<details>
+  <summary><b>📰 Latest Blog Posts</b></summary>
+    <p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️  **[More Posts](https://fadyio.com/posts)**
+
+----
+</p>
+</details>
 
 <details>
 <!-- Metrics -->
