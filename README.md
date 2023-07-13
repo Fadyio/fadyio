@@ -62,14 +62,14 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2023 - To: 11 July 2023
+From: 05 July 2023 - To: 12 July 2023
 
-Total Time: 49 mins
+Total Time: 43 mins
 
-Text     26 mins         █████████████▒░░░░░░░░░░░   53.23 %
-Lua      14 mins         ███████░░░░░░░░░░░░░░░░░░   28.24 %
-Bash     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Python   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Text     26 mins         ███████████████▒░░░░░░░░░   61.62 %
+Lua      13 mins         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+Python   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
