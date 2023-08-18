@@ -62,7 +62,7 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
 Total Time: 5 mins
 
