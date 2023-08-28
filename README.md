@@ -62,12 +62,11 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
 Total Time: 8 mins
 
-Python   8 mins          ████████████████████████▒   97.65 %
-Bash     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Python   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
