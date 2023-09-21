@@ -62,11 +62,13 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-Total Time: 11 mins
+Total Time: 1 hr 1 min
 
-Go   11 mins         █████████████████████████   100.00 %
+Docker   38 mins         ███████████████▓░░░░░░░░░   62.89 %
+Lua      11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+Go       11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
 ```
 
 <!--END_SECTION:waka-->
