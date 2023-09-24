@@ -62,15 +62,15 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
-Total Time: 5 hrs 5 mins
+Total Time: 4 hrs 57 mins
 
-YAML           1 hr 49 mins    █████████░░░░░░░░░░░░░░░░   35.68 %
-Docker         1 hr 31 mins    ███████▒░░░░░░░░░░░░░░░░░   29.87 %
-Text           26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Python         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Bash           19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+YAML           1 hr 49 mins    █████████▒░░░░░░░░░░░░░░░   36.69 %
+Docker         1 hr 31 mins    ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+Text           26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Python         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Bash           19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 ```
 
 <!--END_SECTION:waka-->
