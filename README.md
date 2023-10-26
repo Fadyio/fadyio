@@ -62,15 +62,12 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-Total Time: 25 mins
+Total Time: 26 mins
 
-Bash          18 mins         ██████████████████▒░░░░░░   73.26 %
-Objective-C   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-YAML          3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-JSON          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Text          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Bash   25 mins         ████████████████████████▓   98.92 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
