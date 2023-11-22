@@ -62,12 +62,12 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2023 - To: 19 November 2023
+From: 13 November 2023 - To: 20 November 2023
 
-Total Time: 7 mins
+Total Time: 6 mins
 
-Bash   7 mins          ████████████████████████▓   98.66 %
-on     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Bash   6 mins          ████████████████████████▓   98.54 %
+on     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
