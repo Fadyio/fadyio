@@ -33,11 +33,11 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
     <p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Securely Accessing Private AWS Resources from GitHub Actions with TailScale](https://Fadyio.com/posts/securely-accessing-aws-with-tailscale/)
 - [Protect your Web Apps Against DDoS Attacks by Using AWS Shield](https://dev.to/aws-builders/protect-your-web-apps-against-ddos-attacks-by-using-aws-shield-1gle)
 - [EKS Benefits and comparison between EKS vs. self-managed Kubernetes](https://Fadyio.com/posts/eks-benefits/)
 - [Amazon EKS best practices you should know](https://Fadyio.com/posts/eks-best-practices-you-should-know/)
 - [Compare Amazon ECS vs. EKS](https://Fadyio.com/posts/compare-amazon-ecs-eks/)
-- [Getting Started with Amazon EKS by deploy a sample application](https://Fadyio.com/posts/getting-started-with-aws-eks/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](https://fadyio.com/posts)**
