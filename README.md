@@ -62,13 +62,15 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
 Total Time: 19 mins
 
-TOML        16 mins         ████████████████████▓░░░░   83.02 %
-gitignore   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-YAML        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+TOML        16 mins         ████████████████████▒░░░░   81.40 %
+gitignore   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+YAML        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Lua         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
