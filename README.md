@@ -56,25 +56,4 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
 </p>
 </details>
 
-<details>
-  <summary><b>📊 This week I spent my time on</b></summary>
-<p>
-<!--START_SECTION:waka-->
-
-```txt
-From: 26 December 2023 - To: 02 January 2024
-
-Total Time: 19 mins
-
-TOML        16 mins         ████████████████████▒░░░░   81.40 %
-gitignore   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-YAML        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Lua         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-```
-
-<!--END_SECTION:waka-->
-</p>
-</details>
-
 <h3 align="center"> Thanks for stopping by!</h3>
