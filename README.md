@@ -33,11 +33,8 @@ When I'm not at the keyboard, I like to play sports, astronomy and hanging out w
     <p>
 
 <!-- BLOG-POST-LIST:START -->
-- [EKS Pod Identities Explained: Managing AWS Credentials in Kubernetes Pods](https://Fadyio.com/posts/eks-pod-identities-explained/)
 - [Securely Accessing Private AWS Resources from GitHub Actions with TailScale](https://dev.to/aws-builders/securely-accessing-private-aws-resources-from-github-actions-with-tailscale-7ol)
-- [Securely Accessing Private AWS Resources from GitHub Actions with TailScale](https://Fadyio.com/posts/securely-accessing-aws-with-tailscale/)
 - [Protect your Web Apps Against DDoS Attacks by Using AWS Shield](https://dev.to/aws-builders/protect-your-web-apps-against-ddos-attacks-by-using-aws-shield-1gle)
-- [EKS Benefits and comparison between EKS vs. self-managed Kubernetes](https://Fadyio.com/posts/eks-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](https://fadyio.com/posts)**
