@@ -18,8 +18,8 @@
 
 <blockquote>
 
-Hi, I'm DevOps Engineer. I have one main opinion about programming and computer science, which is that deeply understanding the underlying technology you use is essential if you want to be able to solve hard problems or forward in your career. Sometimes I writes blog articles. You can find them [Here](https://www.fadyio.com/posts),
-When I'm not at the keyboard, I like to play sports, astronomy and hanging out with friends.
+Greetings! I'm Fady, DevOps Engineer and AWS Community Builder. My superpower? Transforming chaotic IT environments into well-oiled, cloud-powered machines, Specializing in taming wild infrastructures and crafting cloud solutions that just work. YAML whisperer.
+
 
 </blockquote>
 
