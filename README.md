@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/Fadyio"><img src="https://img.shields.io/badge/-Fadyio-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/14895864/fady/"><img src="https://img.shields.io/badge/-Fady-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
   <a href="https://github.com/fadyio"><img src="https://img.shields.io/badge/-Fadyio-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://fadyio.com/posts"><img src="https://img.shields.io/badge/-Fady's_Blog-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
+  <a href="https://fadyio.com/blog/"><img src="https://img.shields.io/badge/-Fady's_Blog-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=fadyio&label=Profile%20views&color=0e75b6&style=flat" alt="fadyio" /> </p>
 
 </p>
