@@ -33,8 +33,11 @@ Greetings! I'm Fady, DevOps Engineer and AWS Community Builder. My superpower? T
     <p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing AWS Credentials in EKS Pods with EKS Pod Identities](https://fadyio.com/blog/eks-pod-identities-explained/)
 - [Securely Accessing Private AWS Resources from GitHub Actions with TailScale](https://dev.to/aws-builders/securely-accessing-private-aws-resources-from-github-actions-with-tailscale-7ol)
+- [Securely Accessing Private AWS Resources with TailScale](https://fadyio.com/blog/securely-accessing-aws-with-tailscale/)
 - [Protect your Web Apps Against DDoS Attacks by Using AWS Shield](https://dev.to/aws-builders/protect-your-web-apps-against-ddos-attacks-by-using-aws-shield-1gle)
+- [Comparison between EKS vs. self-managed Kubernetes](https://fadyio.com/blog/eks-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  **[More Posts](https://fadyio.com/posts)**
