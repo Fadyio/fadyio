@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi there</h1>
-<img align="right" width="200" src="https://github.com/fady0/fady0/blob/main/logo.svg" alt="my-logo" />
 
 ```yaml
 apiVersion: v26
