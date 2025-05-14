@@ -1,32 +1,20 @@
-<h1 align="center">👋 Ｈｅｌｌｏ! Ｉ'ｍ Ｆａｄｙ</h1>
+<h1 align="center">👋 Hi there</h1>
+<img align="right" width="200" src="https://github.com/fady0/fady0/blob/main/logo.svg" alt="my-logo" />
 
-<p align="center">
-  <a href="https://fadyio.com"><img src="https://img.shields.io/badge/-Fadyio.com-ff5757?style=flat&logo=Vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/Fadyio"><img src="https://img.shields.io/badge/-Fadyio-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/14895864/fady/"><img src="https://img.shields.io/badge/-Fady-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://github.com/fadyio"><img src="https://img.shields.io/badge/-Fadyio-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://fadyio.com/blog/"><img src="https://img.shields.io/badge/-Fady's_Blog-262654?style=flat&logo=micro.blog&logoColor=white" /></a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fadyio&label=Profile%20views&color=0e75b6&style=flat" alt="fadyio" /> </p>
-
-</p>
-
-<!-- About Section -->
-<details>
-  <summary><b>👤 About Me</b></summary>
-    <p>
-      <img align="right" width="250" src="https://github.com/fady0/fady0/blob/main/logo.svg" alt="my-logo" />
-
-<blockquote>
-
-Greetings! I'm Fady, DevOps Engineer and AWS Community Builder. My superpower? Transforming chaotic IT environments into well-oiled, cloud-powered machines, Specializing in taming wild infrastructures and crafting cloud solutions that just work. YAML whisperer.
+```yaml
+apiVersion: v26
+kind: Human
+metadata:
+  name: Fady Nagh
+spec:
+  locations:
+    - type: My website and blog
+      where: https://www.fadyio.com
+    - type: Linkedin
+      where: https://www.linkedin.com/in/Fadyio
+```
 
 
-</blockquote>
-
-----
-
-  </p>
-</details>
 
 <details>
   <summary><b>📰 Latest Blog Posts</b></summary>
@@ -43,16 +31,6 @@ Greetings! I'm Fady, DevOps Engineer and AWS Community Builder. My superpower? T
 ➡️  **[More Posts](https://fadyio.com/posts)**
 
 ----
-</p>
-</details>
-
-<details>
-<!-- Metrics -->
-  <summary><b>📊 Metrics</b></summary>
-    <p>
-
-<img src="/github-metrics.svg" alt="Metrics" width="70%">:
-
 </p>
 </details>
 
